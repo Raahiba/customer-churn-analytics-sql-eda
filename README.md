@@ -1,4 +1,6 @@
 # Customer Churn Analysis Using SQL
+Customer churn is a phenomenon where the customer discontinue the subscription or relationship with company or any services.
+
 This project analyzes customer churn in the telecom domain using SQL to understand why customers discontinue their service. It includes data cleaning, exploration, and EDA to uncover patterns in telecom customer behavior. CTEs, window functions, and conditional aggregations are used to simplify calculations and compare different customer segments. This analysis also measures churn rates, revenue impact, and how contract types and services influence churn. Overall, this project provides clear insights into key factors driving churn in telecom customers.
 
 ## Project stratergy
